@@ -1,0 +1,63 @@
+body {
+    background-color: #393053;
+    max-width: 100%;
+    color: white;
+    padding-left: 20px;
+}
+
+nav {
+    background-color: #18122B;
+    padding: 10px;
+    margin-left: -28px;
+    margin-top: -11px;
+}
+
+a:link {
+    color: white;
+}
+
+a:hover {
+    background-color: #635985;
+}
+
+.item-bar1 {
+    padding: 11px;
+    padding-left: 30px;
+    margin-left: -10px;
+}
+
+.item-bar {
+    padding: 10px;
+}
+
+li {
+    font-size: large;
+}
+
+.group p {
+    margin-top: -20px;
+}
+
+.myself h1 {
+    padding-top: 20px;
+}
+
+.myself p {
+    margin-top: -20px;
+}
+
+.exp h1 {
+    padding-top: 20px;
+}
+
+.exp p {
+    margin-top: -20px;
+}
+
+.fp-name {
+    padding-top: 20px;
+}
+
+.final-project p {
+    margin-top: -20px;
+}
