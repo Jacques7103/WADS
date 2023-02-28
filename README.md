@@ -1,3 +1,3 @@
 # Web Application Development and Security
 
-Project HTML & CSS short description
+Project HTML, CSS, JS short description of my project
